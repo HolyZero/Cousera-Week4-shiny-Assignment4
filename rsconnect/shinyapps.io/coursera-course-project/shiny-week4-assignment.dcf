@@ -1,0 +1,11 @@
+name: shiny-week4-assignment
+title: Shiny-Week4-Assignment
+account: coursera-course-project
+server: shinyapps.io
+appId: 177677
+bundleId: 814241
+url: https://coursera-course-project.shinyapps.io/shiny-week4-assignment/
+when: 1493858022.08659
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/.DS_Store|Data/test.csv|Data/Titanic_predictions_2.csv
